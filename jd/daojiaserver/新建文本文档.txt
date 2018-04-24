@@ -1,0 +1,4 @@
+在后端启动  nodemon --inspect index.js    使前后台同时显示
+
+前台 npm start   展示数据
+在服务器端安装express   mockjs(伪造数据)    后端生产数据
